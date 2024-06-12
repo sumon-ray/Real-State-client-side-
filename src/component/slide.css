@@ -1,0 +1,39 @@
+.mySwiper {
+    width: 100%;
+    height: 100%;
+    
+}
+.slide{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    align-items: center;
+    background-size: cover;
+    
+}
+.slide1{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://homez-reactjs.ibthemespro.com/assets/home-1-22d28a2d.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.slide2{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://demoapus1.com/homez/wp-content/uploads/2023/02/slider2.png');
+}
+.slide3{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url('https://i.ibb.co/1myj227/pexels-matt-barnard-21952098-10636453.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.slide4{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url('https://i.ibb.co/5Gkq17F/pexels-e-photography-1475938.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.slide5{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url('https://i.ibb.co/f83PjkQ/pexels-heyho-7031413.jpg');
+    background-position: center;
+    background-size: cover;
+}
