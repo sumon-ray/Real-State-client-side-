@@ -13,6 +13,7 @@ import useAxiosSecure from "../hook/useAxiosSecure";
 
 const AllPropertyDetails = () => {
   
+  
   // review section
   const {user} =useContext(AuthContext)
   // 
