@@ -10,6 +10,7 @@ Features of HomeZen
 Three Distinct Roles: HomeZen offers separate dashboards and functionalities for Admin, Agent, and User (Guest) roles.
  ⭐ Admin Management: Admins can add and manage users, guests, and agents, ensuring a streamlined workflow.
 
+
 Property Approval: Agents can add properties, which require admin approval before being listed on the home page.
 🔹Property Management: Agents have the ability to update and delete their listed properties, providing flexibility and control.
 
