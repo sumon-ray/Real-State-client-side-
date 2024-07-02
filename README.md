@@ -12,13 +12,13 @@ Three Distinct Roles: HomeZen offers separate dashboards and functionalities for
 
 
 Property Approval: Agents can add properties, which require admin approval before being listed on the home page.
-🔹Property Management: Agents have the ability to update and delete their listed properties, providing flexibility and control.
+Property Management: Agents have the ability to update and delete their listed properties, providing flexibility and control.
 
 Wishlist Feature: Users and guests can add properties to their wishlist, making it easier to keep track of favorite listings.
  🌟 Detailed Reviews: Users can leave specific reviews on property detail pages, offering valuable feedback and insights.
 
 Review Control: Admins can manage reviews, ensuring that only appropriate and relevant content is displayed.
-🔸 Price Offers: Users and guests can submit price offers to agents. If the agent agrees, the user can proceed to the payment system.
+ Price Offers: Users and guests can submit price offers to agents. If the agent agrees, the user can proceed to the payment system.
 
 Payment System: Users can make payments directly through the platform, facilitating seamless property transactions.
 ⭐ Sold Property Management: Once payment is completed, properties are marked as sold, providing clear transaction records.
