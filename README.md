@@ -4,6 +4,7 @@
 #Admin Password: admin123
 ##Live Site URL
 HomeZen Live Site
+https://superlative-sfogliatella-e1f269.netlify.app/
 
 Features of HomeZen
 1.Three Distinct Roles: HomeZen offers separate dashboards and functionalities for Admin, Agent, and User (Guest) roles.
