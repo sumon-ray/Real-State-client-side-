@@ -35,4 +35,15 @@ Three Distinct Roles: HomeZen offers separate dashboards and functionalities for
 🔹 Comprehensive Search: Users can easily search for properties using various filters to find their perfect home.
 
 
-HomeZen is dedicated to making your real estate journey as smooth and enjoyable as possible. Explore, manage, and secure your dream property with ease. Welcome to HomeZen, where tranquility meets real estate.
+
+
+To clone a project from GitHub and run it locally, follow these steps:
+
+1. Go to the GitHub repository of the project you want to clone.
+2. Click on the "Code" button and copy the HTTPS or SSH URL of the repository.
+3. Open a terminal on your local machine.
+4. Navigate to the directory where you want to clone the project using the cd command.
+5. Use the git clone <repository URL> command to clone the project to your local machine.
+6. Once the project is cloned, navigate into the project directory using the cd command.
+7. Follow any specific instructions provided in the project's README or documentation to set up the project locally. This might include installing dependencies, setting up configurations, or running build scripts.
+8. After setting up the project, you can run it locally using the appropriate commands specified for the project.
