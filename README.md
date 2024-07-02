@@ -37,7 +37,7 @@ Three Distinct Roles: HomeZen offers separate dashboards and functionalities for
 
 
 
-To clone a project from GitHub and run it locally, follow these steps:
+*********To clone a project from GitHub and run it locally, follow these steps*********:
 
 1. Go to the GitHub repository of the project you want to clone.
 2. Click on the "Code" button and copy the HTTPS or SSH URL of the repository.
