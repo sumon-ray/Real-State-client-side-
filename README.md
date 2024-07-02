@@ -11,7 +11,7 @@ Three Distinct Roles: HomeZen offers separate dashboards and functionalities for
  ⭐ Admin Management: Admins can add and manage users, guests, and agents, ensuring a streamlined workflow.
 
 Property Approval: Agents can add properties, which require admin approval before being listed on the home page.
-🔹 Property Management: Agents have the ability to update and delete their listed properties, providing flexibility and control.
+🔹Property Management: Agents have the ability to update and delete their listed properties, providing flexibility and control.
 
 Wishlist Feature: Users and guests can add properties to their wishlist, making it easier to keep track of favorite listings.
  🌟 Detailed Reviews: Users can leave specific reviews on property detail pages, offering valuable feedback and insights.
